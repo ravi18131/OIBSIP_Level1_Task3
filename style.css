@@ -1,0 +1,39 @@
+body {
+    background-color: whitesmoke;
+}
+
+.start {
+    border: 2px solid white;
+    background-color: white;
+    display: inline-block;
+    padding: 33px;
+    justify-content: center;
+    position: relative;
+    margin-top: 8%;
+    text-align: left;
+}
+
+body h1 {
+    color: blue;
+}
+
+.mid {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+body button {
+    font-size: 19px;
+    color: white;
+    border-color: white;
+    text-align: center;
+    background-color: blue;
+    width: 335px;
+    height: 40px;
+    border-radius: 13px;
+    cursor: pointer;
+}
+
+/*.input{
+    display: contents;
+}
